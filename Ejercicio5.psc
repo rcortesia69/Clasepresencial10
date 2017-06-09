@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo Piedrapapelotijeras
 	Escribir "Jugaremos a piedra papel o tijeras"
 	Escribir "Ingresa la opcion por el numero"
 	Escribir "1.-Piedra"
